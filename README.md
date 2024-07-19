@@ -24,7 +24,8 @@
 
 5-Servo Motor: The elegant door opener. It swings into action when you enter the correct password.
 # Hardware connection
-![WhatsApp Image 2024-07-18 at 7 34 29 PM](https://github.com/user-attachments/assets/80f8f3d9-1bde-4d10-8ff3-3a37296f3881)
+![Screenshot 2024-07-20 014648](https://github.com/user-attachments/assets/2eae7815-3260-437c-989a-8853bf79376d)
+
 
 
 
