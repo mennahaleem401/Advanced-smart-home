@@ -8,7 +8,7 @@
 4-Fan Settings:  Turn the fan on or off effortlessly.
 5-Gas Sensor Monitoring: The app keeps an eye on gas levels. If it detects any anomalies, you’ll receive alerts.
 6-Emergency Buzzer: Triple-tap the app, and the buzzer sounds. 
-#Tech Stack:
+# Tech Stack:
 1-MIT App Inventor: we built this magic using MIT’s user-friendly platform. No coding headaches—just creativity!
 2-Arduino: The heart of our system. It communicates with the app, controls the relay modules, and ensures smooth operation.
 3-Relay Modules: These little heroes switch the lamp and fan on/off. They’re like the traffic controllers of your home.
