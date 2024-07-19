@@ -23,4 +23,8 @@
 4-Gas Sensor (A0): Always vigilant, it senses gas levels and keeps your environment safe.
 
 5-Servo Motor: The elegant door opener. It swings into action when you enter the correct password.
+# Hardware connection
+![WhatsApp Image 2024-07-18 at 7 34 29 PM](https://github.com/user-attachments/assets/80f8f3d9-1bde-4d10-8ff3-3a37296f3881)
+
+
 
