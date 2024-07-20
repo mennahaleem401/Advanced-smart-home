@@ -1,5 +1,5 @@
 # Advanced-smart-home 
- The smart home app is a Bluetooth-controlled system crafted using MIT App Inventor. The intuitive interface allows homeowners to control lighting and ventilation effortlessly. Enter your password, hit ‘OPEN’, and you have control over your home’s appliances.
+ a Bluetooth-controlled system using Arduino and a smart home app made by MIT App Inventor. The intuitive interface allows homeowners to control lighting and ventilation effortlessly. Enter your password, hit ‘OPEN’, and you have control over your home’s appliances.
  Whether turning on the lamp or adjusting the fan settings, convenience is now at your fingertips. Plus, with added security features like password protection for door access.
  
  Permanent link take a look in our app:  https://gallery.appinventor.mit.edu/?galleryid=a4b8a6e7-5098-4ac2-876d-ca19e702ef91
